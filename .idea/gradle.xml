@@ -4,11 +4,10 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="PLATFORM" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
+        <option name="gradleJvm" value="adopt-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,11 +15,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1" />
@@ -28,11 +23,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter1" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
+        <option name="gradleJvm" value="adopt-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter1" />
@@ -40,11 +32,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter2" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter2" />
@@ -52,11 +40,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter3" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
+        <option name="gradleJvm" value="adopt-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3" />
@@ -64,11 +49,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter3/spring-mvc-branchoffice" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3/spring-mvc-branchoffice" />
@@ -76,11 +57,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter3/spring-mvc-headoffice" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3/spring-mvc-headoffice" />
@@ -88,11 +65,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter3/spring-reactive-branchoffice" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3/spring-reactive-branchoffice" />
@@ -100,11 +73,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter3/spring-reactive-headoffice" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3/spring-reactive-headoffice" />
@@ -112,11 +81,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part1/chapter4" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter4" />
@@ -124,11 +89,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part2" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part2" />
@@ -136,11 +97,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3" />
@@ -148,11 +105,8 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter15" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
+        <option name="gradleJvm" value="adopt-11" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter15" />
@@ -160,11 +114,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter16" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter16" />
@@ -172,11 +122,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter17" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter17" />
@@ -184,11 +130,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter18" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter18" />
@@ -196,11 +138,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter19" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter19" />
@@ -208,11 +146,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter20" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter20" />
@@ -220,11 +154,7 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="delegatedBuild" value="true" />
-        <option name="testRunner" value="GRADLE" />
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/part3/chapter21" />
-        <option name="gradleHome" value="$PROJECT_DIR$/../../../software/build/gradle/gradle-7.4-bin/gradle-7.4" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part3/chapter21" />

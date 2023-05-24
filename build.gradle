@@ -2,6 +2,11 @@ plugins {
     id 'java'
 }
 
+java {
+    sourceCompatibility = '1.11'
+    targetCompatibility = '1.11'
+}
+
 group 'com.itvillage'
 version '1.0-SNAPSHOT'
 
