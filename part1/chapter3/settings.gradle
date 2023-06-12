@@ -1,2 +1,6 @@
 rootProject.name = 'chapter3'
 
+include('spring-mvc-headoffice')
+include('spring-mvc-branchoffice')
+include('spring-reactive-headoffice')
+include('spring-reactive-branchoffice')

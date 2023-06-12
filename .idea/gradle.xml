@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/part2" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -45,6 +46,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/part1/chapter3" />
+            <option value="$PROJECT_DIR$/part1/chapter3/spring-mvc-branchoffice" />
+            <option value="$PROJECT_DIR$/part1/chapter3/spring-mvc-headoffice" />
+            <option value="$PROJECT_DIR$/part1/chapter3/spring-reactive-branchoffice" />
+            <option value="$PROJECT_DIR$/part1/chapter3/spring-reactive-headoffice" />
           </set>
         </option>
       </GradleProjectSettings>
